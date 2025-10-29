@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "compilerOptions": {
     "target": "es6",
@@ -10,3 +11,17 @@
   },
   "include": ["./**/*.ts"]
 }
+=======
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "es6",
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "rootDir": "./",
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": ["./**/*.ts"]
+}
+>>>>>>> 080a9999e95ce653b6fae939698863a37ff853fd
